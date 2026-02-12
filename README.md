@@ -2,7 +2,7 @@
 
 A platform for finding local workers like plumbers, electricians, and contractors. This was a group project where we built a service marketplace with a realistic feel using bot workers to populate the platform.
 
-**[Live Demo] http://localhost:5173/** (Deploy this when ready)
+**[Live Demo] 🔍 (https://qwicka.vercel.app)**** (Deploy this when ready)
 
 ---
 
