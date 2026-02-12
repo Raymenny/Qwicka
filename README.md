@@ -1,8 +1,8 @@
-# Qwicka 🔧
+# Qwicka 
 
 A platform for finding local workers like plumbers, electricians, and contractors. This was a group project where we built a service marketplace with a realistic feel using bot workers to populate the platform.
 
-**[Live Demo] 🔍 (https://qwicka.vercel.app)**** (Deploy this when ready)
+**[Live Demo] (https://qwicka.vercel.app)**** (Deploy this when ready)
 
 ---
 
@@ -162,22 +162,6 @@ If we had more time:
 
 ---
 
-## Screenshots
-
-### Landing Page
-![Hero Section](./screenshots/hero.png)
-
-### Browse Services
-![Services](./screenshots/services.png)
-
-### Worker Profile
-![Profile](./screenshots/profile.png)
-
-### Sign In
-![Sign In](./screenshots/signin.png)
-
----
-
 ## Team Project
 
 Built this as a group project to learn Vue and work on something more complex than solo projects. Good experience working with others and managing a shared codebase.
@@ -194,9 +178,6 @@ Looking for internships in software development!
 
 ---
 
-## License
-
-MIT
 
 ---
 
